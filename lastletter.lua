@@ -1,4 +1,4 @@
-local url5 = "https://raw.githubusercontent.com/NullLuaUndefinedUser/Null/refs/heads/main/dictionary.txt"
+local url5 = "https://raw.githubusercontent.com/NullLuaUndefinedUser/dict/refs/heads/main/dictionary.txt"
 
 local Words5 = {}
 local WordSet5 = {}
